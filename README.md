@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Literally3Bagels
-- 📫 How to reach me... @Literally3Bagels on Discord
-- 🐍 Ok let's be real, I'm horrible at coding; I know basic python
-- ❌ That's it
-- 💻 Well, like a tiny bit of html, but I don't think that really counts because I dont know enough js to actually utilise the knowledge
+- horrible at coding
+- @Literally3Bagels on discord
+- here i will post my shitty code because why the fuck not
+- i know you probably think im exaggerating when i say shitty code, im not
+- make fun of my code so i can actually get motivated to learn how to code please
+- incredibly mischevious >:3c
+- uwu
